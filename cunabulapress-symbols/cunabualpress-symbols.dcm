@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_SPST_NO_Omron_B3F-5050
+K switch, omron, b3f
+F https://docs-emea.rs-online.com/webdocs/13ec/0900766b813ecc19.pdf
+$ENDCMP
+#
+#End Doc Library
